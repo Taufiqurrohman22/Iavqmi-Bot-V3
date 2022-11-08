@@ -15,11 +15,11 @@
 <a href="https://github.com//network/members"><img title="Forks" src="https://img.shields.io/github/forks/saipulanuar/YukiBot2022?color=red&style=flat-square"></a>
 </P>
 <p align="center">
-  <a href="https://github.com/saipulanuar/YukiBot2022#requirements">Requirements</a> •
-  <a href="https://github.com/saipulanuar/YukiBot2022#instalasi">Installation</a> •
-  <a href="https://github.com/saipulanuar/YukiBot2022#thanks-to">Thanks to</a> •
-  <a href="https://github.com/saipulanuar/YukiBot2022#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/saipulanuar/YukiBot2022#donate">Donate</a>
+  <a href="https://github.com/Taufiqurrohman22/Iavqmi-Bot-V3#requirements">Requirements</a> •
+  <a href="https://github.com/Taufiqurrohman22/Iavqmi-Bot-V3#instalasi">Installation</a> •
+  <a href="https://github.com/Taufiqurrohman22/Iavqmi-Bot-V3#thanks-to">Thanks to</a> •
+  <a href="https://github.com/Taufiqurrohman22/Iavqmi-Bot-V3#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/Taufiqurrohman22/Iavqmi-Bot-V3#donate">Donate</a>
 </p>
 </div>
 ---
