@@ -50,7 +50,7 @@ let handler = async (m, { conn, args, isPrems, isOwner }) => {
             description: 'Now Playing...',
             mediaType: 2,
           thumbnail: await (await fetch(thumb)).buffer(),
-         mediaUrl: `https://youtu.be/pwLZpdfO8AU`
+         mediaUrl: `https://youtube.com/channel/UCEWzQWxEdrxawnmQtZ3mEZQ`
         }
      }
   })
