@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://telegra.ph/file/6ab4daac226292a112540.jpg" alt="YUKI BOT" width="500"/>
+<img src="https://telegra.ph/file/454ac9e0fb6a157f11df4.jpg" alt="IAVQMI BOT" width="500"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="YUKI BOT MULTI DEVICE" src="https://img.shields.io/badge/YUKI BOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="IAVQMI BOT MULTI DEVICE" src="https://img.shields.io/badge/YUKI BOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/saipulanuar/YukiBot2022"><img title="Author" src="https://img.shields.io/badge/Author-KINGOFBEAR-red.svg?style=for-the-badge&logo=github"></a>
@@ -24,10 +24,10 @@
 </div>
 ---
 
-# YUKI BOT Whatsapp MD
+# IAVQMI BOT Whatsapp MD
 ## For Users Termux Install Module [here](https://github.com/Ilhamskhyzi/node_modules)
 ## Information
-> YUKI BOT whatsapp using a Baileys library.
+> IAVQMI BOT whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 >
 > • NOTE: Pastikan Jaringan kalian lancar dan device kalian bagus:v, 
@@ -42,7 +42,7 @@
 
 ## Tester Bot
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [Owner-YukiBot](https://wa.me/6288279268363)
+* Info Lebih Lanjut, Chat [Owner-Iavqmibot](https://wa.me/6283822205585)
 
 ## How To Change Menu Display
 ----
@@ -113,7 +113,7 @@ let message = await prepareWAMessageMedia({ video: fs.readFileSync('./media/shir
 
 ```bash
 git clone https://github.com/saipulanuar/YukiBot2022
-cd YukiBot2022
+cd IavqmiBot2022
 npm install
 npm update
 npm index
