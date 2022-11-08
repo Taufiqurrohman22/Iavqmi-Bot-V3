@@ -7,7 +7,7 @@
 <a href="#"><img title="IAVQMI BOT MULTI DEVICE" src="https://img.shields.io/badge/IAVQMI BOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/saipulanuar/YukiBot2022"><img title="Author" src="https://img.shields.io/badge/Author-KINGOFBEAR-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Taufiqurrohman22/Iavqmi-Bot-V3"><img title="Author" src="https://img.shields.io/badge/Author-OPIK²⁴-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/"><img title="Followers" src="https://img.shields.io/github/followers/saipulanuar?color=blue&style=flat-square"></a>
