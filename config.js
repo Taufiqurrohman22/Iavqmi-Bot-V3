@@ -27,32 +27,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/kahfi_maker'
+global.sig = 'https://instagram.com/iavqmi?igshid=YmMyMTA2M2Y='
 global.syt = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
-global.sgh = 'https://github.com/Frezzy-XD'
-global.sgc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
-global.swa = 'wa.me/6285380166282'
+global.sgh = 'https://github.com/Taufiqurrohman22'
+global.sgc = 'https://chat.whatsapp.com/CtC8YWWcdBWL5XT1sX0kN3'
+global.swa = 'wa.me/6283822205585'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085380166282'
+global.pdana = '083822205585'
 global.povo = '-'
 global.pgopay = '-'
-global.ppulsa = '085295374964'
-global.ppulsa2 = '085295374964'
-global.psaweria = 'https://saweria.co/MaxxyBotz'
+global.ppulsa = '083822205585'
+global.ppulsa2 = '083822205585'
+global.psaweria = 'https://saweria.co/Iavqmi'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.namebot = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓'
-global.nameown = 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
+global.nomorbot = '62895393440906'
+global.nomorown = '6283822205585'
+global.namebot = 'Iavqmi Bot✓'
+global.nameown = 'Opik²⁴✓'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285380166282', 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓', 'true']
+  ['6283822205585', 'Opik²⁴✓', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -102,16 +102,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ | By ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓' //Main Watermark
-global.wm2 = 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
-global.wm3 = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ | By ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
+global.wm = 'IavqmiBot✓ | By Opik²⁴✓' //Main Watermark
+global.wm2 = 'OpikGanz✓'
+global.wm3 = 'Iavqmi ʙᴏᴛᴢ✓ | By Opik²⁴✓'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ | ʙʏ ${global.nameown}`
-global.author = 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓' 
-global.packname = 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
+global.titlebot = `Iavqmi ʙᴏᴛᴢ✓ | ʙʏ ${global.nameown}`
+global.author = 'Opik²⁴✓' 
+global.packname = 'Opik²⁴✓'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'November 8 2022'
+global.ultahowner = 'Juni 22 1990'
 
 
 /*============== LOGO ==============*/
@@ -126,11 +126,11 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya Maxxy BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓* Saya di rilis pada tanggal\n🗓 ️_07/11/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
-global.umurowner = '17'
+global.nameowner = 'Opik²⁴✓'
+global.umurowner = '16'
 global.asalowner = 'Amerika Serikat, New York'
-global.nomorowner = 'wa.me/6285380166282'
-global.pacarowner = 'Kepo amat sih;v'
+global.nomorowner = 'wa.me/6283822205585'
+global.pacarowner = 'nothing;v'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
