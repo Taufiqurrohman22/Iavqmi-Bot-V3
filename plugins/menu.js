@@ -172,7 +172,7 @@ let handler = async (m, { conn, usedPrefix, __dirname }) => {
     const pp = await conn.profilePictureUrl(conn.user.jid).catch(_ => './src/avatar_contact.png')
     const menu = './media/menu.jpg'
     const valor = './thumbnail.jpg'
-    let url = 'https://i.ibb.co/jfZVKmC/babi2.jpg'
+    let url = 'https://i.ibb.co/x3yXNzj/IMG-20221108-WA0023.jpg'
     let flaa = pickRandom(global.flaaaaa)
     const ultah = new Date(`${ultahowner} 00:00:01`)
     const sekarat = new Date().getTime() 
@@ -188,14 +188,14 @@ let handler = async (m, { conn, usedPrefix, __dirname }) => {
       [`۪۪ᴀᴜᴛʜᴏʀ ʙᴏᴛ`, `${usedPrefix}owner`]
     ], m, { 'document':{'url':'https://lynk.id/kahfi.xd'},
 'mimetype':global.dpdf,
-'fileName':'「 ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓ 」',
+'fileName':'「 Opik²⁴✓ 」',
 'fileLength':fsizedoc,
 'pageCount':fpagedoc,
 'previewType':'pdf',
 contextInfo: { externalAdReply :{ showAdAttribution: true,
                         sourceUrl: 'https://lynk.id/kahfi.xd',
                         mediaType: 2,
-                        description: `⚘ ᴄʀᴇᴀᴛᴇ ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓`,
+                        description: `⚘ ᴄʀᴇᴀᴛᴇ Opik²⁴✓`,
                         title: `💌 My Ultah: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
                         body: `⚘ by https://lynk.id/kahfi.xd`,          previewType: 0,
                         thumbnail: await (await fetch(thumb)).buffer(),
